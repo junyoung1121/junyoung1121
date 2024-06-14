@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junyoung1121)](https://solved.ac/junyoung1121)<br/>   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung1121&show_icons=true&theme=radical)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junyoung1121)](https://solved.ac/junyoung1121)
+
 
 # 👀 나의 관심사 
 
