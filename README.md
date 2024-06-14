@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=JunYoung's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junyoung1121)](https://solved.ac/junyoung1121)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junyoung1121)](https://solved.ac/junyoung1121)<br/>   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung1121&show_icons=true&theme=radical)
+
 
 
 # 👀 나의 관심사 
