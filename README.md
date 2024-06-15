@@ -23,7 +23,7 @@
 <h4> 🎙️ 음악에 관심이 있습니다. </h4>
 
 
-# - 🌱 현재까지 학습한 것
+# - 🌱 현재까지 학습한 내용
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> 
 
