@@ -37,6 +37,9 @@
 
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> : junyoung_1121                                <a href="https://www.instagram.com/junyoung_1121/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
 </a>     
+
+
+
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> : chris747804@gmail.com
 
 
