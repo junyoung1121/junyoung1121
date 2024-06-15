@@ -8,11 +8,13 @@
 
 # - 🧔🏼프로필
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junyoung1121)](https://solved.ac/junyoung1121)<br/>   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung1121&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junyoung1121)](https://solved.ac/junyoung1121)<br/>   
 
 <h3> 현재 세명대학교에 재학 중 입니다. </h3>
 
 <h3> 세명대학교 스마트IT학부에 소속되어 있습니다. </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung1121&show_icons=true&theme=radical)
 
 <h2> 👀 나의 취미 </h2> 
 
