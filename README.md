@@ -41,7 +41,7 @@
 
 
 
-- ⚡ Fun fact: ...
+
 
 <!---
 junyoung1121/junyoung1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
