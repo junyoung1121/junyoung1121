@@ -26,12 +26,11 @@
 
 
 
-# - 📫 How to reach me ...
+# - 😄
 
 
 
-
-# - 😄 연락 가능한 곳:
+# - 📫 연락 가능한 곳:
 
 <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/> : 010-9057-7952 
    
